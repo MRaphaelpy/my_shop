@@ -1,6 +1,6 @@
-# myshop
+# My Shop
 
-A new Flutter project.
+Aplicativo que Simula compra em Loja Virtual
 
 ## Getting Started
 
